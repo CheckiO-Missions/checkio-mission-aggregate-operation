@@ -1,0 +1,1 @@
+# checkio-mission-aggregate-operation
